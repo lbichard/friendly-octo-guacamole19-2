@@ -17,4 +17,4 @@ Access the intergrated terminal, type "npm i", then after all packages are insta
 
 
 ## Deployment
-[Note Taker](https://friendly-octo-guacamole-19-2-cf31c5d46a2a.herokuapp.com/)
+[J.A.T.E.](https://friendly-octo-guacamole-19-2-cf31c5d46a2a.herokuapp.com/)
